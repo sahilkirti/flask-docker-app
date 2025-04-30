@@ -1,4 +1,4 @@
-This is a simple flask we application running in a docker container -
+This is a simple flask we application running in a docker container-
 
 DIRECTORY STRUCTURE :
 
